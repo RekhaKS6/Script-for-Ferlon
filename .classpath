@@ -18,5 +18,16 @@
 	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/poi/stax-api-1.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/poi/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/TYSS/Downloads/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/extentreports-4.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TYSS/Desktop/Riyaz/Prime Number/extentReportJars/mongodb-driver-core-3.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

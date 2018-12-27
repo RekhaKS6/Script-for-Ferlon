@@ -9,6 +9,6 @@ public class GetDateFormat
 		DateFormat formatDate=new SimpleDateFormat("dd/MM/YYYY");
 		Date date=new Date();
 		String date1=formatDate.format(date);
-		System.out.println(date1);
+		System.out.println("Today's Date is: "+date1);
 	}
 }
