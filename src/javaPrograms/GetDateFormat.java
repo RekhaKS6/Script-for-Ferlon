@@ -1,9 +1,7 @@
 package javaPrograms;
-
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
 public class GetDateFormat
 {
 	public static void main(String[] args)
