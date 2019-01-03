@@ -20,7 +20,7 @@ public class OccuranceOfCharacters
 			if(ch[i]!=' ')
 			System.out.println(ch[i]+" occured "+count);
 		}
-		System.out.println(ch.toString()                             );
-		//System.out.println();
+		System.out.println(ch);
+		System.out.println(str);
 	}
 }
