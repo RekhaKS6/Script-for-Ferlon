@@ -4,6 +4,7 @@ public class ReverseWords
 	public static void main(String[] args)
 	{
 		String str ="Im writing java program now";
+		
 		String[] split=str.split(" ");
 		for(int i=0;i<split.length;i++)
 		{
